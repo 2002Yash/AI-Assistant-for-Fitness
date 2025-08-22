@@ -1,0 +1,6 @@
+streamlit
+langflow
+astrapy
+python-dotenv
+requests
+openai
